@@ -1,0 +1,20 @@
+{
+  "files.associations": {
+    "*.java": "java",
+    "__bit_reference": "cpp",
+    "__config": "cpp",
+    "__hash_table": "cpp",
+    "__locale": "cpp",
+    "algorithm": "cpp",
+    "atomic": "cpp",
+    "bitset": "cpp",
+    "iterator": "cpp",
+    "locale": "cpp",
+    "optional": "cpp",
+    "string": "cpp",
+    "string_view": "cpp",
+    "tuple": "cpp",
+    "vector": "cpp",
+    "__string": "cpp"
+  }
+}
